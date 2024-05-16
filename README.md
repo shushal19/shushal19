@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shusal Lamsal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<img src="https://wakatime.com/badge/user/018cce33-40e6-4997-ade4-82fda99a91ca.svg" height="25"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-[![wakatime](https://wakatime.com/badge/user/018cce33-40e6-4997-ade4-82fda99a91ca.svg.svg)]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushal19&label=Profile%20views&color=0e75b6&style=flat" alt="shushal19" /> </p>
 
@@ -13,6 +14,8 @@
 - 💬 Ask me about **flutter,flask,dart,python**
 
 - 📫 How to reach me **shusallamsal35@gmail.com**
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushal19&show_icons=true&locale=en" alt="shushal19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushal19&" alt="shushal19" /></p>
+
+<img src="https://wakatime.com/share/@shusal/a1dbf43b-53b8-4731-87cb-ebb00f61663c.svg" height="300"/>
+
